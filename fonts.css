@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Metropolis Bold';
+    src: url('https://anna-jasminhuber.github.io/metropolis/Metropolis-Bold.woff2') format('woff2'),
+    font-weight: 500;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Metropolis Regular';
+    src: url('https://anna-jasminhuber.github.io/metropolis/Metropolis-Regular.woff2') format('woff2'),
+    font-weight: 500;
+    font-style: normal;
+}
